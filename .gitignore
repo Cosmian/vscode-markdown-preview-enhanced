@@ -1,4 +1,4 @@
 .vscode-test
-*.vsix
+# *.vsix - until tge new mume version is released
 node_modules
 out
